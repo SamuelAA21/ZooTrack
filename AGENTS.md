@@ -65,7 +65,29 @@ Lea solamente las notas relacionadas con la tarea; no cargue toda la bóveda par
 
 Las reglas y documentación específicas del proyecto tienen prioridad sobre las recomendaciones generales del Cerebro Flutter.
 
+La información de este proyecto vive fuera del cerebro, en `C:\Flutter\Proyectos\ZooTrack\`:
+
+- `ZooTrack.md`: ficha.
+- `ZooTrack - Historial.md`.
+- `ZooTrack - Entorno y entrega.md`.
+
+Actualícelas cuando cambie el estado, la versión, el entorno o la forma de entrega del proyecto.
+
 Si la ruta no está disponible en el entorno de ejecución, continúe con la documentación del proyecto e informe brevemente que no fue posible consultar la bóveda.
+
+## Cerebro Presentaciones
+
+Cuando se pida explicar, recorrer o presentar el repositorio, o una funcionalidad, flujo o carpeta de él, use el cerebro de presentaciones. Está en una bóveda propia, independiente de Flutter:
+
+`C:\Presentaciones\Cerebro Presentaciones\Cerebro Presentaciones.md`
+
+Siga su `AGENTS.md`. La presentación de este proyecto ya existe:
+
+`C:\Presentaciones\Cerebro Presentaciones\05 - Presentaciones\ZooTrack\ZooTrack - Recorrido del repositorio.md`
+
+Actualícela, junto con su propiedad `verificado_contra`, cuando cambien la estructura de carpetas, los flujos principales, la persistencia o la navegación. No cree otra presentación del mismo proyecto.
+
+Si la ruta no está disponible, responda con la documentación del repositorio e informe brevemente que no fue posible consultar la bóveda.
 
 ## Mantenimiento autónomo del conocimiento
 
